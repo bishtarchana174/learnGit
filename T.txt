@@ -1,0 +1,9 @@
+1. pwd: To know in which directory you are in.
+2. ls: To know what files and folders are in the directory you are in.
+3. cd: Cd command is used to go to a directory. If you re in home folder, and want to go to the downloads folder, you can type
+in "cd downloads".
+4. mkdir and rmdir: 
+5. touch command: It is used to create a file.
+6. 
+
+
